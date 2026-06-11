@@ -16,4 +16,10 @@ class Node{
         }
 };
 
-class Tree{};
+class BinaryTree{
+    public:
+        Node *root;
+        BinaryTree(){
+            root = NULL;
+        }
+};
