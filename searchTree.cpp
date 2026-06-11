@@ -25,5 +25,11 @@ class BinaryTree{
         void insert(string element){
             Node *newNode = new Node(element, NULL, NULL);
             
+            newNode->info = element;
+            newNode->leftchild = NULL;
+            newNode->rightchild = NULL;
+
+
+
         }
 };
