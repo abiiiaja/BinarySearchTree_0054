@@ -22,4 +22,7 @@ class BinaryTree{
         BinaryTree(){
             root = NULL;
         }
+        void insert(){
+
+        }
 };
