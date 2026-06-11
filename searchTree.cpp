@@ -128,6 +128,7 @@ int main(){
         cout << "5. Exit" << endl;
 
         char ch;
+        cout << "Enter your choice: ";
         cin >> ch;
 
         cout << endl;
