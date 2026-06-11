@@ -22,7 +22,8 @@ class BinaryTree{
         BinaryTree(){
             root = NULL;
         }
-        void insert(){
-
+        void insert(string element){
+            Node *newNode = new Node(element, NULL, NULL);
+            
         }
 };
