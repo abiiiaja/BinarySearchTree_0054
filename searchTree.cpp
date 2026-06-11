@@ -29,7 +29,8 @@ class BinaryTree{
             newNode->leftchild = NULL;
             newNode->rightchild = NULL;
 
-
+            Node *parent = NULL;
+            Node *currentnode = NULL;
 
         }
 };
