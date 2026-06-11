@@ -14,5 +14,6 @@ class Node{
             leftchild = l;
             rightchild = r;
         }
-
 };
+
+class Tree{};
